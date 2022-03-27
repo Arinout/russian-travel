@@ -1,0 +1,23 @@
+.item__image{
+    max-width: calc((100%/2) - 32px);
+    height: 100%;
+}
+
+@media (max-width: 1024px) {
+    .item__image{
+        max-width: calc((100%/2) - 24px);
+    }
+}
+
+@media (max-width: 768px) {
+    .item__image{
+        max-width: calc((100%/2) - 20px);
+    }
+}
+
+@media (max-width: 425px) {
+    .item__image{
+        max-width: 100%;
+        margin: 0 0 32px;
+    }
+}

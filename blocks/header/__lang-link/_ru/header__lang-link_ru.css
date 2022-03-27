@@ -1,0 +1,11 @@
+.header__lang-link_ru{
+    width: 30px;
+    text-decoration: underline;
+    margin-right: 18px;
+}
+
+@media (max-width: 425px) {
+    .header__lang-link_ru{
+        width: 22px;
+    }
+}

@@ -1,0 +1,31 @@
+.item__paragraph{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.63;
+    color: #FFF;
+    width: 100%;
+    margin: 0;
+    height: auto;
+}
+
+.item__paragraph:nth-of-type(1){
+    margin-bottom: 26px;
+}
+
+.item__paragraph:last-of-type{
+    margin-bottom: 0;
+}
+
+@media (max-width:768px){
+    .item__paragraph{
+        font-size: 16px;
+    }
+
+    .item__paragraph:nth-of-type(1){
+        margin-bottom: 25px;
+    }
+
+    .item__paragraph:last-of-type{
+        margin-bottom: 0;
+    }
+}
