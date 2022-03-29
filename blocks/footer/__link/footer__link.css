@@ -13,7 +13,6 @@
     opacity: 0.8;
 }
 
-
 .footer__link:nth-of-type(2n){
     margin: 0 18px;
 }
@@ -26,9 +25,9 @@
     }
 
     .footer__link:nth-of-type(2n){
-        margin: 32px 0 32px;
+        margin: 32px 0 ;
     }
-
+    
     .footer__link:last-of-type{
         margin-bottom: 48px;
     }

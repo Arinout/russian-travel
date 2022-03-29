@@ -1,12 +1,11 @@
 .item__title{
-    font-family: 'Inter';
-    font-style: normal;
     font-weight: 900;
     font-size: 72px;
     line-height: 1.06;
     color: #FFF;
     width: calc((100%/2) - 32px);
     margin: 0 0 48px;
+    box-sizing: content-box;
 }
 
 @media (max-width: 1024px) {

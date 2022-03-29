@@ -1,7 +1,5 @@
 .intro__title{
     width: 100%;
-    font-family: 'Inter';
-    font-style: normal;
     font-weight: 900;
     font-size: 54px;
     line-height: 1.07;
@@ -12,8 +10,7 @@
 
 @media (max-width: 425px) {
     .intro__title{
-        font-family: 'Inter';
-        font-style: normal;
+        max-width: 250px;
         font-weight: 900;
         font-size: 32px;
         line-height: 1.09;

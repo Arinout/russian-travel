@@ -4,6 +4,8 @@
     padding: 245px 312px 245px;
     position: relative;
     cursor: pointer;
+    
+    box-sizing: border-box;
 }
 
 .cover::before{
@@ -25,6 +27,7 @@
 @media (max-width: 1024px) {
     .cover{
         padding: 195px 232px 195px;
+        
     }
 }
 

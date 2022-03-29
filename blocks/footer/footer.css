@@ -3,6 +3,8 @@
     width: 100%;
     padding: 92px 48px 24px;
     box-sizing: border-box;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 @media (max-width: 768px) {
