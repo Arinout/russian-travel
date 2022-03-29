@@ -24,4 +24,4 @@
 
 **Проект**
 
-* [Ссылка на проект](https://arinout.github.io/russian-travel/)
+* [Ссылка на проект](https://arinout.github.io/russian-travel/index.html)
