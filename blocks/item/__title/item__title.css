@@ -10,11 +10,11 @@
 
 @media (max-width: 1024px) {
     .item__title{
-        width: calc((100%/2) - 24px);  
+        width: calc((100%/2) - 24px);
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 880px) {
     .item__title{
         max-width: 330px;
         width: calc((100%/2) - 20px);
@@ -23,7 +23,7 @@
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 767px) {
     .item__title{
         width: 90%;
         font-size: 32px;

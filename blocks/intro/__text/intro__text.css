@@ -6,12 +6,5 @@
     color: #fff;
     width: 100%;
     box-sizing: border-box;
-    
 }
 
-@media (max-width: 425px) {
-    .intro__text{
-        white-space: pre-wrap;
-       
-    }
-}

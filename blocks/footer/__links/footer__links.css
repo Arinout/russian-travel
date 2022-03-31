@@ -1,11 +1,6 @@
 .footer__links{
     display: flex;
+    flex-wrap: wrap;
     box-sizing: border-box;
     width: calc(100% - 186px);
-}
-
-@media (max-width:425px){
-    .footer__links{
-        flex-direction: column;
-    }
 }

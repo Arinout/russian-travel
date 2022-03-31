@@ -16,7 +16,7 @@
      }
  } 
 
- @media (max-width:425px){
+ @media (max-width:767px){
     .item__main-text{
         width: 90%;
         margin: 0;
