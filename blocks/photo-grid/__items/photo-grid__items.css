@@ -1,5 +1,5 @@
 .photo-grid__items{
-    list-style-type: none; 
+    list-style-type: none;
     margin: 0;
     padding: 0;
     display: grid;
@@ -23,5 +23,5 @@
 @media screen and (max-width: 425px){
     .photo-grid__items{
         gap: 12px;
-    }   
+    }
 }
