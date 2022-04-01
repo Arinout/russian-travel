@@ -9,7 +9,7 @@
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 803px) {
     .item__image{
         max-width: calc((100%/2) - 20px);
     }

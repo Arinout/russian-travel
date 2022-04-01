@@ -31,21 +31,9 @@
     opacity: 0.8;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1184px) {
     .cover{
-        min-height: 640px;
-        
+      min-height: calc((100vw*625)/1000);
     }
 }
 
-@media (max-width: 768px) {
-    .cover{
-        min-height: 480px;
-    }
-}
-
-@media (max-width: 425px) {
-    .cover{
-        min-height: 200px;
-    }
-}

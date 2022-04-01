@@ -14,7 +14,7 @@
     }
 }
 
-@media (max-width: 880px) {
+@media (max-width: 861px) {
     .item__title{
         max-width: 330px;
         width: calc((100%/2) - 20px);
