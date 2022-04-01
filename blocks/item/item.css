@@ -11,7 +11,6 @@
 
 @media (max-width: 861px) {
     .item{
-        justify-content: space-between;
         margin-bottom: 73px;
     }
 }

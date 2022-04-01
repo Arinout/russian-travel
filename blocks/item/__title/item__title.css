@@ -5,7 +5,7 @@
     color: #FFF;
     width: calc((100%/2) - 32px);
     margin: 0 0 48px;
-    box-sizing: content-box;
+
 }
 
 @media (max-width: 1024px) {
@@ -14,13 +14,12 @@
     }
 }
 
-@media (max-width: 861px) {
-    .item__title{
-        max-width: 330px;
-        width: calc((100%/2) - 20px);
-        font-size: 42px;
-        line-height: 1.1;
-    }
+@media (max-width: 900px) {
+  .item__title{
+      width: calc((100%/2) - 20px);
+      font-size: 42px;
+      line-height: 1.1;
+  }
 }
 
 @media (max-width: 767px) {

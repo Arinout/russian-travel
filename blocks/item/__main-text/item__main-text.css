@@ -4,19 +4,19 @@
 
 }
 
-@media (max-width:1024px){
+@media (max-width: 1024px){
    .item__main-text{
         margin-left: 32px;
     }
 }
 
-@media (max-width:803px){
+@media (max-width: 900px){
     .item__main-text{
         margin-left: 28px;
      }
  }
 
- @media (max-width:767px){
+ @media (max-width: 767px){
     .item__main-text{
         width: 90%;
         margin: 0;
