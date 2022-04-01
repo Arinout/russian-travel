@@ -1,24 +1,23 @@
 .item__main-text{
-    width: calc((100%/2) - 8px);
-    margin-left: 40px;
-
+  width: calc((100%/2) - 8px);
+  margin-left: 40px;
 }
 
-@media (max-width: 1024px){
-   .item__main-text{
-        margin-left: 32px;
-    }
+@media (max-width:1024px){
+ .item__main-text{
+      margin-left: 32px;
+  }
 }
 
-@media (max-width: 900px){
-    .item__main-text{
-        margin-left: 28px;
-     }
- }
+@media (max-width:880px){
+  .item__main-text{
+      margin-left: 28px;
+   }
+}
 
- @media (max-width: 767px){
-    .item__main-text{
-        width: 90%;
-        margin: 0;
-     }
- }
+@media (max-width:767px){
+  .item__main-text{
+      width: 90%;
+      margin: 0;
+   }
+}
